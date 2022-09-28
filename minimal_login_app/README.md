@@ -1,16 +1,24 @@
 # minimal_login_app
 
-A new Flutter project.
+--- English Section ---
 
-## Getting Started
+A Flutter project login for the mobile programming subject.
 
-This project is a starting point for a Flutter application.
+## Starting
+
+This project is the first part of a project that will progressively grow in functionality.
+
+--- Seccion en Español --- 
+
+Un inicio de sesión del proyecto Flutter para el sujeto de programación móvil.
+
+## Comenzando
+
+Este proyecto es la primera parte de un proyecto que crecerá progresivamente en funcionalidad.
+
+/// DOCS ///
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
