@@ -1,18 +1,18 @@
 # minimal_login_app
 
---- English Section ---
+## --- English Section ---
 
 A Flutter project login for the mobile programming subject.
 
-## Starting
+ --- Starting ---
 
 This project is the first part of a project that will progressively grow in functionality.
 
---- Seccion en Español --- 
+## --- Seccion en Español --- 
 
 Un inicio de sesión del proyecto Flutter para el sujeto de programación móvil.
 
-## Comenzando
+ --- Comenzando ---
 
 Este proyecto es la primera parte de un proyecto que crecerá progresivamente en funcionalidad.
 
